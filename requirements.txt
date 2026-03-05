@@ -1,0 +1,6 @@
+uiautomator2
+pandas
+openpyxl
+python-dotenv
+lxml
+adbutils

@@ -1,0 +1,15 @@
+# Local data and credentials
+*.xlsx
+*.txt
+*.log
+.env
+!requirements.txt
+
+# IDE and Project files
+.idea/
+.vscode/
+
+# Python environment
+__pycache__/
+*.pyc
+.venv/
