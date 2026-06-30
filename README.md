@@ -1,5 +1,7 @@
 # Android UI Flow Automator
 
+> **NDA Notice**: The source code in this repository is a sanitized showcase version. The complete implementation, business logic, and client-specific configurations are proprietary and covered by a non-disclosure agreement.
+
 An extensible automation framework built with **Python** and **uiautomator2** for verifying complex user journeys, monitoring UI-based performance metrics, and stress-testing cross-application navigation (Deep Links) on Android.
 
 ---
